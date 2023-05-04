@@ -319,7 +319,7 @@
       },
       {"id": 403,
         "name": "Cheesecake",
-        "banner_image": "https://example.com/recipe1.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/piece-cheesecake-with-chocolate-strawberries-top_1340-23215.jpg?w=1380&t=st=1683141571~exp=1683142171~hmac=46546c0178283939dcaff845492358d53db4a23ab3e5d7dfadc7f4f0f8c6e443g",
         "ingredients": [
           "graham cracker crumbs",
           "sugar",
@@ -333,7 +333,7 @@
       },
       {"id": 404,
         "name": "Spinach Quiche",
-        "banner_image": "https://example.com/recipe5.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/plate-pasta-with-homemade-pesto-sauce_114579-29772.jpg?w=900&t=st=1683215322~exp=1683215922~hmac=c1b63722668006d0224928354672e1d8f398a896beef97413cf1cd707c0dda86",
         "ingredients": [
           "pie crust",
           "spinach",
@@ -350,7 +350,7 @@
       },
       {"id": 405,
         "name": "Beef Fajitas",
-        "banner_image": "https://example.com/recipe4.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/closeup-mexican-tasty-tacos-de-pastor-plate_181624-42045.jpg?w=900&t=st=1683215364~exp=1683215964~hmac=580351418aa25143203018d759020c69052856415a5099a63d1f9e6d73717c20",
         "ingredients": [
           "flank steak",
           "bell peppers",
@@ -380,7 +380,7 @@
     "recipes": [
       { "id": 501,
         "name": "Caesar Salad",
-        "banner_image": "https://example.com/recipe3.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/healthy-salad-with-chicken-vegetables_144627-14729.jpg?w=900&t=st=1683215416~exp=1683216016~hmac=a77e42f2ae15f24faa0580721aeae08f22de3381c01672135b3324de3b8f7545g",
         "ingredients": [
           "romaine lettuce",
           "Parmesan cheese",
@@ -396,7 +396,7 @@
       },
       {"id": 502,
         "name": "Spaghetti Bolognese",
-        "banner_image": "https://example.com/recipe1.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/pasta-plate-chopping-board-with-fork_23-2148357206.jpg?w=900&t=st=1683215448~exp=1683216048~hmac=60356963231da6167c11bea877fe32c21fc257c3c35d37d2d995c5cedca675e9",
         "ingredients": [
           "spaghetti",
           "ground beef",
@@ -414,7 +414,7 @@
       },
       {"id": 503,
         "name": "Cheesecake",
-        "banner_image": "https://example.com/recipe1.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/cheesecake-topped-with-chocolate-syrup_141793-631.jpg?w=900&t=st=1683215485~exp=1683216085~hmac=07f05124fe6fde84f62bf33068e22870d01157d3b3151d1d50d62f9225c4ce5e",
         "ingredients": [
           "graham cracker crumbs",
           "sugar",
@@ -428,7 +428,7 @@
       },
       {"id": 504,
         "name": "Spinach Quiche",
-        "banner_image": "https://example.com/recipe5.jpg",
+        "banner_image": "https://img.freepik.com/premium-photo/quiche-with-spinach-traditional-dish-french-cuisine-spinach-tart_154293-6657.jpg?w=740",
         "ingredients": [
           "pie crust",
           "spinach",
@@ -445,7 +445,7 @@
       },
       { "id": 505,
         "name": "Beef Fajitas",
-        "banner_image": "https://example.com/recipe4.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/side-view-chiken-doner-kebab-plate-with-bread-french-fries-tomatoes-onion-pickles-sauce_140725-11894.jpg?w=740&t=st=1683215565~exp=1683216165~hmac=1db77aae2dffaa4eb06ee4f633dae1030f1b2429a4f4a8a753367aa9d5042089",
         "ingredients": [
           "flank steak",
           "bell peppers",
@@ -475,7 +475,7 @@
     "recipes": [
       { "id": 601,
         "name": "Caesar Salad",
-        "banner_image": "https://example.com/recipe3.jpg",
+        "banner_image": "https://www.freepik.com/free-photo/side-view-caesar-salad-with-chicken-parmesan-cheese-white-bowl-wooden-board_8402749.htm#query=Caesar%20Salad&position=4&from_view=search&track=ais",
         "ingredients": [
           "romaine lettuce",
           "Parmesan cheese",
@@ -491,7 +491,7 @@
       },
       {"id": 602,
         "name": "Spaghetti Bolognese",
-        "banner_image": "https://example.com/recipe1.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/spaghetti-meatballs_1339-2997.jpg?w=900&t=st=1683215651~exp=1683216251~hmac=62370e8995f2ceff2bef80817b16b2640433568735fb0d0902c2bd47b92856b3",
         "ingredients": [
           "spaghetti",
           "ground beef",
@@ -509,7 +509,7 @@
       },
       { "id": 603,
         "name": "Cheesecake",
-        "banner_image": "https://example.com/recipe1.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/whipped-cream-chocolate-cake-raspberry-sauce-indulgence-generated-by-ai_188544-31827.jpg?w=900&t=st=1683215688~exp=1683216288~hmac=f72ce500e876e37e80f982738d9a12f396c029e4075ed77dd6e47a1831e018f8",
         "ingredients": [
           "graham cracker crumbs",
           "sugar",
@@ -523,7 +523,7 @@
       },
       { "id": 604,
         "name": "Spinach Quiche",
-        "banner_image": "https://example.com/recipe5.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/high-angle-omelette-plate-with-tomatoes-breakfast_23-2148417396.jpg?w=900&t=st=1683215723~exp=1683216323~hmac=18aa2537036933fed4911b4c68a2069834c34353a05df7167f4388ef0aa4a443",
         "ingredients": [
           "pie crust",
           "spinach",
@@ -540,7 +540,7 @@
       },
       { "id": 605,
         "name": "Beef Fajitas",
-        "banner_image": "https://example.com/recipe4.jpg",
+        "banner_image": "https://img.freepik.com/free-photo/bottom-view-chicken-liver-fry-with-potato-platter-colored-bell-peppers-coriander-table_140725-147725.jpg?w=900&t=st=1683215758~exp=1683216358~hmac=6f72a6f64bb5708db9a75ba8221ab580ec7fa4678e8822ca2848fab956b7cb1a",
         "ingredients": [
           "flank steak",
           "bell peppers",
