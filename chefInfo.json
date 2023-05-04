@@ -20,7 +20,8 @@
           "butter",
           "lemon juice"
         ],
-        "recipe_method": "1. Preheat oven to 375°F (190°C). \n2. Peel and slice apples. Mix with sugar, cinnamon, nutmeg, and lemon juice. \n3. Roll out pie crust and place in pie dish. Pour apple mixture into pie crust. \n4. Cut butter into small pieces and place on top of apples. \n5. Roll out second pie crust and place on top of apples. Cut slits in top crust to allow steam to escape. \n6. Bake for 45-50 minutes or until crust is golden brown."
+        "recipe_method": "1. Preheat oven to 375°F (190°C). \n2. Peel and slice apples. Mix with sugar, cinnamon, nutmeg, and lemon juice. \n3. Roll out pie crust and place in pie dish. Pour apple mixture into pie crust. \n4. Cut butter into small pieces and place on top of apples. \n5. Roll out second pie crust and place on top of apples. Cut slits in top crust to allow steam to escape. \n6. Bake for 45-50 minutes or until crust is golden brown.",
+        "rating":"5"
       },
       { "id": 102,
         "name": "Roast Chicken",
@@ -33,7 +34,9 @@
           "salt",
           "pepper"
         ],
-        "recipe_method": "1. Preheat oven to 425°F (218°C). \n2. Rinse chicken and pat dry. Rub butter all over chicken. Squeeze lemon over chicken and place lemon halves inside cavity of chicken. \n3. Cut garlic cloves in half and place inside cavity of chicken. \n4. Sprinkle salt and pepper all over chicken. \n5. Place chicken in roasting pan and roast for 1 hour and 20 minutes or until internal temperature of chicken reaches 165°F (74°C)."
+        "recipe_method": "1. Preheat oven to 425°F (218°C). \n2. Rinse chicken and pat dry. Rub butter all over chicken. Squeeze lemon over chicken and place lemon halves inside cavity of chicken. \n3. Cut garlic cloves in half and place inside cavity of chicken. \n4. Sprinkle salt and pepper all over chicken. \n5. Place chicken in roasting pan and roast for 1 hour and 20 minutes or until internal temperature of chicken reaches 165°F (74°C).",
+        "rating":"6"
+
       },
       { "id": 103,
         "name": "Beef Wellington",
@@ -48,7 +51,8 @@
           "butter",
           "egg"
         ],
-        "recipe_method": "1. Preheat oven to 425°F (218°C). \n2. Season beef tenderloin with salt and pepper. Sear beef in butter until browned on all sides. \n3. Remove beef from pan and let cool. \n4. In same pan, sauté mushrooms, shallots, garlic, and thyme until tender. \n5. Roll out puff pastry and place beef in center. Top beef with mushroom mixture. \n6. Wrap puff pastry around beef and brush with beaten egg. \n7. Bake for 35-40 minutes or until puff pastry is golden brown and beef is cooked to desired temperature."
+        "recipe_method": "1. Preheat oven to 425°F (218°C). \n2. Season beef tenderloin with salt and pepper. Sear beef in butter until browned on all sides. \n3. Remove beef from pan and let cool. \n4. In same pan, sauté mushrooms, shallots, garlic, and thyme until tender. \n5. Roll out puff pastry and place beef in center. Top beef with mushroom mixture. \n6. Wrap puff pastry around beef and brush with beaten egg. \n7. Bake for 35-40 minutes or until puff pastry is golden brown and beef is cooked to desired temperature.",
+        "rating":"8"
       },
       { "id": 104,
         "name": "Pad Thai",
@@ -64,7 +68,8 @@
           "soy sauce",
           "sugar"
         ],
-        "recipe_method": "1. Soak rice noodles in hot water for 15-20 minutes or until softened. \n2. In a wok or large pan, cook chicken until browned. Push chicken to the side and add beaten eggs to other side of pan. Scramble the eggs and then mix with the chicken. \n3. Add bean sprouts and green onions to the pan and stir-fry for 1-2 minutes. \n4. Drain the soaked rice noodles and add them to the pan with the chicken and vegetables. \n5. In a separate bowl, mix together lime juice, soy sauce, and sugar. Pour over noodle mixture and toss to combine. \n6. Top with chopped peanuts and serve immediately."
+        "recipe_method": "1. Soak rice noodles in hot water for 15-20 minutes or until softened. \n2. In a wok or large pan, cook chicken until browned. Push chicken to the side and add beaten eggs to other side of pan. Scramble the eggs and then mix with the chicken. \n3. Add bean sprouts and green onions to the pan and stir-fry for 1-2 minutes. \n4. Drain the soaked rice noodles and add them to the pan with the chicken and vegetables. \n5. In a separate bowl, mix together lime juice, soy sauce, and sugar. Pour over noodle mixture and toss to combine. \n6. Top with chopped peanuts and serve immediately.",
+        "rating":"9"
       },
       { "id": 105,
         "name": "Chicken Enchiladas",
@@ -78,7 +83,8 @@
           "cilantro",
           "green onions"
         ],
-        "recipe_method": "1. Preheat oven to 350°F (175°C). \n2. Mix shredded chicken with 1/2 cup of enchilada sauce. \n3. Place a scoop of chicken mixture in the center of each tortilla. Roll up tortillas and place seam-side down in a baking dish. \n4. Pour remaining enchilada sauce over tortillas. Sprinkle cheddar cheese over the top. \n5. Bake for 20-25 minutes or until cheese is melted and bubbly. \n6. Top with dollops of sour cream, chopped cilantro, and sliced green onions before serving."
+        "recipe_method": "1. Preheat oven to 350°F (175°C). \n2. Mix shredded chicken with 1/2 cup of enchilada sauce. \n3. Place a scoop of chicken mixture in the center of each tortilla. Roll up tortillas and place seam-side down in a baking dish. \n4. Pour remaining enchilada sauce over tortillas. Sprinkle cheddar cheese over the top. \n5. Bake for 20-25 minutes or until cheese is melted and bubbly. \n6. Top with dollops of sour cream, chopped cilantro, and sliced green onions before serving.",
+        "rating":"7"
       }
     ]
   },
@@ -105,7 +111,8 @@
           "Dijon mustard",
           "olive oil"
         ],
-        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve.",
+        "rating":"5"
       },
       {
         "id": 202,
@@ -124,7 +131,8 @@
           "salt",
           "pepper"
         ],
-        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti.",
+        "rating":"9"
       },
       { "id": 203,
         "name": "Cheesecake",
@@ -138,7 +146,8 @@
           "vanilla extract",
           "eggs"
         ],
-        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving.",
+        "rating":"7"
       },
       {
         "id": 204,
@@ -156,7 +165,8 @@
           "pepper",
           "nutmeg"
         ],
-        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving.",
+        "rating":"8"
       },
       { "id": 205,
         "name": "Beef Fajitas",
@@ -175,7 +185,8 @@
           "pepper",
           "tortillas"
         ],
-        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately.",
+        "rating":"9"
       }
     ]
   },
@@ -202,7 +213,8 @@
           "Dijon mustard",
           "olive oil"
         ],
-        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve.",
+        "rating":"8"
       },
       {"id": 302,
         "name": "Spaghetti Bolognese",
@@ -220,7 +232,8 @@
           "salt",
           "pepper"
         ],
-        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti.",
+        "rating":"7"
       },
       { "id": 303,
         "name": "Cheesecake",
@@ -234,7 +247,8 @@
           "vanilla extract",
           "eggs"
         ],
-        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving.",
+        "rating":"5"
       },
       {"id": 304,
         "name": "Spinach Quiche",
@@ -251,7 +265,8 @@
           "pepper",
           "nutmeg"
         ],
-        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving.",
+        "rating":"5"
       },
       {"id": 305,
         "name": "Beef Fajitas",
@@ -270,7 +285,8 @@
           "pepper",
           "tortillas"
         ],
-        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately.",
+        "rating":"8"
       }
     ]
   },
@@ -297,7 +313,8 @@
           "Dijon mustard",
           "olive oil"
         ],
-        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve.",
+        "rating":"7"
       },
       { "id": 402,
         "name": "Spaghetti Bolognese",
@@ -315,7 +332,8 @@
           "salt",
           "pepper"
         ],
-        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti.",
+        "rating":"6"
       },
       {"id": 403,
         "name": "Cheesecake",
@@ -329,7 +347,8 @@
           "vanilla extract",
           "eggs"
         ],
-        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving.",
+        "rating":"6"
       },
       {"id": 404,
         "name": "Spinach Quiche",
@@ -346,7 +365,8 @@
           "pepper",
           "nutmeg"
         ],
-        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving.",
+        "rating":"5"
       },
       {"id": 405,
         "name": "Beef Fajitas",
@@ -365,7 +385,8 @@
           "pepper",
           "tortillas"
         ],
-        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately.",
+        "rating":"7"
       }
     ]
   },
@@ -392,7 +413,8 @@
           "Dijon mustard",
           "olive oil"
         ],
-        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve.",
+        "rating":"6"
       },
       {"id": 502,
         "name": "Spaghetti Bolognese",
@@ -410,7 +432,8 @@
           "salt",
           "pepper"
         ],
-        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti.",
+        "rating":"8"
       },
       {"id": 503,
         "name": "Cheesecake",
@@ -424,7 +447,8 @@
           "vanilla extract",
           "eggs"
         ],
-        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving.",
+        "rating":"7"
       },
       {"id": 504,
         "name": "Spinach Quiche",
@@ -441,7 +465,8 @@
           "pepper",
           "nutmeg"
         ],
-        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving.",
+        "rating":"8"
       },
       { "id": 505,
         "name": "Beef Fajitas",
@@ -460,7 +485,8 @@
           "pepper",
           "tortillas"
         ],
-        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately.",
+        "rating":"6"
       }
     ]
   },
@@ -487,7 +513,8 @@
           "Dijon mustard",
           "olive oil"
         ],
-        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve.",
+        "rating":"8"
       },
       {"id": 602,
         "name": "Spaghetti Bolognese",
@@ -505,7 +532,8 @@
           "salt",
           "pepper"
         ],
-        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti.",
+        "rating":"9"
       },
       { "id": 603,
         "name": "Cheesecake",
@@ -519,7 +547,8 @@
           "vanilla extract",
           "eggs"
         ],
-        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving.",
+        "rating":"7"
       },
       { "id": 604,
         "name": "Spinach Quiche",
@@ -536,7 +565,8 @@
           "pepper",
           "nutmeg"
         ],
-        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving.",
+        "rating":"9"
       },
       { "id": 605,
         "name": "Beef Fajitas",
@@ -555,7 +585,8 @@
           "pepper",
           "tortillas"
         ],
-        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately.",
+        "rating":"9"
       }
     ]
   }
